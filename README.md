@@ -1,13 +1,13 @@
 # Superstore Sales- Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/A3HrAdW8R1?ctid=fd1266d7-62fb-4683-852f-417261402a2c&pbi_source=linkShare
+### Dashboard Link: https://app.powerbi.com/links/A3HrAdW8R1?ctid=fd1266d7-62fb-4683-852f-417261402a2c&pbi_source=linkShare
 
-### Problem Statement
+### Problem Statement:
 
 The objective of this project is to analyze sales and profitability data for a superstore to identify key trends, patterns, and insights across various segments, categories, and customer profiles. The analysis will focus on understanding the distribution of sales and profits, identifying top-performing and loss-making customers, and comparing year-over-year sales and profit trends. Additionally, the project will explore the relationship between discount percentages and profitability and create a comprehensive summary table with interactive features for deeper analysis. The goal is to inform data-driven decisions to enhance business performance and profitability.
 
 
-### Questions Addressed 
+### Questions Addressed:
 
 - What is the sales and profitability distribution of segments across the country?
 
