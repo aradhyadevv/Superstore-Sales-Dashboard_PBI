@@ -9,30 +9,30 @@ The objective of this project is to analyze sales and profitability data for a s
 
 ### Questions Addressed:
 
-- What is the sales and profitability distribution of segments across the country?
+- The sales and profitability distribution of segments across the country.
 
-- Show top 10 profitable customers vs top 10 loss making customers.
+- Showed top 10 profitable customers vs top 10 loss making customers.
 
-- Show top 5 profitable categories split by sub-categories.
+- Showed top 5 profitable categories split by sub-categories.
 
-- Compare sales of latest year with previous years.
+- Compared sales of latest year with previous years.
 
-- Compare percentage contribution of sales by categories.
+- Compared percentage contribution of sales by categories.
 
-- Show the trend of order count with sales.
+- Showed the trend of order count with sales.
 
-- Draw a comparison between discount % vs profit % across customers.
+- Drawn a comparison between discount % vs profit % across customers.
 
-- Draw monthly sales by YoY and similarly monthly profit by YoY
+- Drawn monthly sales by YoY and similarly monthly profit by YoY
 
-- Create a table summary with all important dimensions and metrics.
+- Created a table summary with all important dimensions and metrics.
 
-- To the table summary:
+- Table summary:
 
-(i) Add a column with icons of up/down arrows to signify movement in latest year sales vs. previous years (2016, 2015, 2014).
+(i) Added a column with icons of up/down arrows to signify movement in latest year sales vs. previous years (2016, 2015, 2014).
 
 (ii) +/- profitability (background color).
 
 (iii) 0-20%, 20-50%, 50-70%, 70% and above discount columns.
 
-- Add slicers with all important dimensions to let users slice and dice the data.
+- Added slicers with all important dimensions to let users slice and dice the data.
